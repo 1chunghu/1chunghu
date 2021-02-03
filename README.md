@@ -1,4 +1,4 @@
-## Halo , I'm Rii 🔰
+## Halo , I'm Rii 
 I am the chairman of Riliam , Execute all projects in Riliam , and maintain all Riliam operations.
 
 
