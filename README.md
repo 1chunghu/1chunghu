@@ -1,5 +1,5 @@
-## Halo , I'm Rii 
-I am the chairman of Riliam , Execute all projects in Riliam , and maintain all Riliam operations.
+## Halo , I'm Chung 
+I am an information security professional specializing in maintaining internet security and possessing advanced hacking skills. I provide technical assistance in various ways for network technologies.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Rii&show_icons=true&count_private=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
