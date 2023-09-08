@@ -1,7 +1,8 @@
 ## Halo , I'm Chung 
 I am an information security professional specializing in maintaining internet security and possessing advanced hacking skills. I provide technical assistance in various ways for network technologies.
 
-![Chung's stats](https://github-readme-stats.vercel.app/api?username=Chung&show_icons=true&count_private=true&theme=graywhite)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chunger&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=graywhite)
 
 <hr>
 
