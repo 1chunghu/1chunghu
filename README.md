@@ -1,10 +1,8 @@
 ## Halo , I'm Chung 
 I am an information security professional specializing in maintaining internet security and possessing advanced hacking skills. I provide technical assistance in various ways for network technologies.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chunger&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=graywhite)
-
-<hr>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Languages / Frameworks / Tools:  
 <a href="https://www.python.org" target="_blank"> 
@@ -42,7 +40,3 @@ I am an information security professional specializing in maintaining internet s
 <a href="https://www.typescriptlang.org/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
 </a> 
-
-<a href="https://vuepress.vuejs.org/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"/> 
-</a>
