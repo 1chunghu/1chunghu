@@ -2,8 +2,24 @@
 
 I am an information security professional specializing in maintaining internet security and possessing advanced hacking skills. I provide technical assistance in various ways for network technologies.
 
+- Bachelor of Computing, Information Security
+- Bachelor of Digital Multimedia
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chung&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=graywhite)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+
+<section>
+  <h3>Connect with me on my socials!</h3>
+  <p>
+    <a href="https://www.linkedin.com/in/chungnicholas" title="protonmail" target="_blank">
+      <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="protonmail"/>
+    </a>
+    <a href="https://chungnicholas.com" title="Website" target="_blank">
+<!--       &nbsp -->
+      <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website"/>
+    </a>
+  </p>
+</section>
 
 #### Languages / Frameworks / Tools:  
 <a href="https://www.python.org" target="_blank"> 
