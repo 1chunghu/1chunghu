@@ -1,4 +1,5 @@
-## Halo , I'm Chung 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&size=30&pause=1000&color=E3E3E3&multiline=true&width=800&lines=Halo+!+I+am+Chung%2C+welcome+to+my+github+profile)](https://git.io/typing-svg)
+
 I am an information security professional specializing in maintaining internet security and possessing advanced hacking skills. I provide technical assistance in various ways for network technologies.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chung&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=graywhite)
