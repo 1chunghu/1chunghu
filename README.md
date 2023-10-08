@@ -47,13 +47,13 @@ I am an information security professional specializing in maintaining internet s
 </a>
 
 <a href="https://www.electronjs.org" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="linux" width="55" height="55"/> 
 </a> 
 
 <a href="https://www.mongodb.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="kali" width="60" height="60"/> 
 </a> 
 
 <a href="https://www.typescriptlang.org/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" alt="cisco" width="60" height="55"/> 
 </a> 
