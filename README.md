@@ -39,6 +39,10 @@ I am an information security professional specializing in maintaining internet s
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="50" height="50"/> 
 </a>
 
+<a href="" target="_blank"> 
+<img src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4" alt="nodejs" width="50" height="50"/> 
+</a>
+
 <a href="https://www.electronjs.org" target="_blank"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="linux" width="50" height="50"/> 
 </a> 
