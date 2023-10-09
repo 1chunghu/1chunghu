@@ -43,15 +43,15 @@ I am an information security professional specializing in maintaining internet s
 <img src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4" alt="nodejs" width="50" height="50"/> 
 </a>
 
-<a href="https://www.electronjs.org" target="_blank"> 
+<a href="" target="_blank"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="linux" width="50" height="50"/> 
 </a> 
 
-<a href="https://www.mongodb.com/" target="_blank"> 
+<a href="" target="_blank"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="kali" width="60" height="60"/> 
 </a> 
 
-<a href="https://www.typescriptlang.org/" target="_blank"> 
+<a href="" target="_blank"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" alt="cisco" width="65" height="50"/> 
 </a> 
 <section>
