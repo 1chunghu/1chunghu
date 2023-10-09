@@ -11,10 +11,10 @@ I am an information security professional specializing in maintaining internet s
 <section>
   <h3>Connect with me on my socials!</h3>
   <p>
-    <a href="https://www.linkedin.com/in/chungnicholas" title="protonmail" target="_blank">
+    <a href="" title="protonmail" target="_blank">
       <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="protonmail"/>
     </a>
-    <a href="-" title="Website" target="_blank">
+    <a href="" title="Website" target="_blank">
 <!--       &nbsp -->
       <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website"/>
     </a>
