@@ -14,7 +14,7 @@ I am an information security professional specializing in maintaining internet s
     <a href="https://www.linkedin.com/in/chungnicholas" title="protonmail" target="_blank">
       <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="protonmail"/>
     </a>
-    <a href="https://chungnicholas.com" title="Website" target="_blank">
+    <a href="-" title="Website" target="_blank">
 <!--       &nbsp -->
       <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website"/>
     </a>
