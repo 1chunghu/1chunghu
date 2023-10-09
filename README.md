@@ -21,7 +21,8 @@ I am an information security professional specializing in maintaining internet s
   </p>
 </section>
 
-#### Languages / Frameworks / Tools:  
+<section>
+  <h3>Languages / Frameworks / Tools:</h3>  
 <a href="https://www.python.org" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a>
@@ -57,3 +58,4 @@ I am an information security professional specializing in maintaining internet s
 <a href="https://www.typescriptlang.org/" target="_blank"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" alt="cisco" width="60" height="55"/> 
 </a> 
+<section>
