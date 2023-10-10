@@ -21,6 +21,13 @@ I am an information security professional specializing in maintaining internet s
   </p>
 </section>
 
+<h2  align="center">Reach me on</h2>
+<p align="center">
+  <a target="_blank"href=""><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href=""><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ </a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
 <section>
   <h3>Languages / Frameworks / Tools:</h3>  
 <a href="https://www.python.org" target="_blank"> 
