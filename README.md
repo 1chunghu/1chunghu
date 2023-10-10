@@ -8,19 +8,6 @@ I am an information security professional specializing in maintaining internet s
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chungHu&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=graywhite)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
-<section>
-  <h3>Connect with me on my socials!</h3>
-  <p>
-    <a href="" title="protonmail" target="_blank">
-      <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="protonmail"/>
-    </a>
-    <a href="" title="Website" target="_blank">
-<!--       &nbsp -->
-      <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website"/>
-    </a>
-  </p>
-</section>
-
 <h2  align="center">Reach me on</h2>
 <p align="center">
   <a target="_blank"href=""><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
